@@ -43,7 +43,6 @@ Add-Type -TypeDefinition $setwallpapersrc
 }
 
 ###
-Start-Sleep 5;
 Screenshot;
 SetWallpaper;
 
